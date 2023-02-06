@@ -1,0 +1,6 @@
+C:\Users\kopis\source\repos\CalculateSquare\CalculateSquare\bin\Debug\CalculateSquare.dll
+C:\Users\kopis\source\repos\CalculateSquare\CalculateSquare\bin\Debug\CalculateSquare.pdb
+C:\Users\kopis\source\repos\CalculateSquare\CalculateSquare\obj\Debug\CalculateSquare.csproj.AssemblyReference.cache
+C:\Users\kopis\source\repos\CalculateSquare\CalculateSquare\obj\Debug\CalculateSquare.csproj.CoreCompileInputs.cache
+C:\Users\kopis\source\repos\CalculateSquare\CalculateSquare\obj\Debug\CalculateSquare.dll
+C:\Users\kopis\source\repos\CalculateSquare\CalculateSquare\obj\Debug\CalculateSquare.pdb
